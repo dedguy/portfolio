@@ -1,2 +1,5 @@
-> sudo gem install rack haml
-> rackup
+Portfolio
+=========
+
+>     > sudo gem install rack haml
+>     > rackup
