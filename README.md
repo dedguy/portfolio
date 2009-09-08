@@ -2,6 +2,7 @@ Portfolio
 =========
 
 >     > sudo gem install sinatra shotgun haml
->     > shotgun
 
-Go to http://0.0.0.0:9292/
+>     > shotgun -s webrick
+
+Go to http://localhost:9292/
